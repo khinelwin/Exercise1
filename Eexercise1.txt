@@ -1,2 +1,7 @@
 Test one line
+<<<<<<< HEAD
 Test by Sandar Myint
+=======
+
+Hello World 
+>>>>>>> 1c1ef9902cd09b8787cb14fcd6d09fd73c3eaa02
